@@ -36,4 +36,4 @@ pip install pandas numpy seaborn matplotlib plotly scikit-learn
 
 ## 👨‍💻 Autor
 
-Marco Antonio Silva da Mata
+Marco Antonio Silva da Mata - MM
